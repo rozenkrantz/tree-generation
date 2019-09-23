@@ -7,3 +7,10 @@ key factor determining the branching structure of trees. Detailed explanation is
 
 ## Sample Result
 ![alt text](https://image.ibb.co/j204qf/sample.png)
+
+In order to run this project you need to install openframeworks.
+Afterwards, run "make" on your terminal.
+In case of success you should get an object file in ./bin.
+Run ./bin/Tree to start the application
+
+
